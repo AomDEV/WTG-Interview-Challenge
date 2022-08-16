@@ -10,7 +10,7 @@ const Tokens = () => {
   // call API
   function get() {
     setIsLoading(true);
-    fetch("https://nextjs-6pvsrw--3000.local.webcontainer.io/api/get-token")
+    fetch("https://nextjs-f9rffd--3000.local.webcontainer.io/api/get-token")
       .then((raw) => raw.json())
       .then((resp) => {
         setData(resp.data);
