@@ -1,0 +1,2230 @@
+{
+  "data": [
+    {
+      "id": "968",
+      "name": "Lucky Fish #968",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Shark",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe488b"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe488c"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe488d"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe488e"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe488f"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4890"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4891"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4892"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/968.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/968",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/968",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/968",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/968"
+      }
+    },
+    {
+      "id": "590",
+      "name": "Lucky Fish #590",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Whale",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe4882"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4883"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4884"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4885"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4886"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4887"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4888"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4889"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/590.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/590",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/590",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/590",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/590"
+      }
+    },
+    {
+      "id": "1258",
+      "name": "Lucky Fish #1258",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Demon",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe4894"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4895"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4896"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4897"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4898"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4899"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe489a"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe489b"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1258.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1258",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1258",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1258",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1258"
+      }
+    },
+    {
+      "id": "1885",
+      "name": "Lucky Fish #1885",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": " Flipped",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe489d"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe489e"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe489f"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a0"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a1"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a2"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a3"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe48a4"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1885.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1885",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1885",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1885",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1885"
+      }
+    },
+    {
+      "id": "2967",
+      "name": "Lucky Fish #2967",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Dead",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe48b8"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48ba"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48bb"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48bc"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48bd"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48be"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe48bf"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2967.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2967",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2967",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2967",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2967"
+      }
+    },
+    {
+      "id": "313",
+      "name": "Lucky Fish #313",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Skeleton",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe4867"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4868"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4869"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe486a"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe486b"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe486c"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe486d"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe486e"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/313.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/313",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/313",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/313",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/313"
+      }
+    },
+    {
+      "id": "442",
+      "name": "Lucky Fish #442",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Invisible",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe4879"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe487a"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe487b"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe487c"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe487d"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe487e"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe487f"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4880"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/442.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/442",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/442",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/442",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/442"
+      }
+    },
+    {
+      "id": "2609",
+      "name": "Lucky Fish #2609",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Can",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe48af"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b0"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b1"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b2"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b3"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b4"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48b5"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe48b6"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2609.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2609",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2609",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2609",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2609"
+      }
+    },
+    {
+      "id": "1912",
+      "name": "Lucky Fish #1912",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Blowfish",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe48a6"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a8"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48a9"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48aa"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48ab"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe48ac"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe48ad"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1912.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1912",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1912",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1912",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1912"
+      }
+    },
+    {
+      "id": "336",
+      "name": "Lucky Fish #336",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Legendary",
+          "value": "Ghost",
+          "percentile": 0.0003629764065335753,
+          "count": 1,
+          "_id": "62f258110205538db1fe4870"
+        },
+        {
+          "trait_type": "Background",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4871"
+        },
+        {
+          "trait_type": "Body",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4872"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4873"
+        },
+        {
+          "trait_type": "Face",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4874"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "None",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4875"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "1",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4876"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4877"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/336.png",
+      "rank": 1,
+      "rarityScore": 4410.372954349698,
+      "rarityScoreNormalized": 440.9430994644796,
+      "rankNormalized": 1,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/336",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/336",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/336",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/336"
+      }
+    },
+    {
+      "id": "2146",
+      "name": "Lucky Fish #2146",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Hand",
+          "value": "Cash",
+          "percentile": 0.003266787658802178,
+          "count": 9,
+          "_id": "62f258110205538db1fe48c1"
+        },
+        {
+          "trait_type": "Head",
+          "value": "High Hat",
+          "percentile": 0.004355716878402904,
+          "count": 12,
+          "_id": "62f258110205538db1fe48c2"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48c3"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Pixel Glasses",
+          "percentile": 0.032667876588021776,
+          "count": 90,
+          "_id": "62f258110205538db1fe48c4"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Mustache",
+          "percentile": 0.07005444646098004,
+          "count": 193,
+          "_id": "62f258110205538db1fe48c5"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Apple Green",
+          "percentile": 0.10344827586206896,
+          "count": 285,
+          "_id": "62f258110205538db1fe48c6"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe48c7"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48c8"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2146.png",
+      "rank": 12,
+      "rarityScore": 755.0376564741081,
+      "rarityScoreNormalized": 42.49882660877609,
+      "rankNormalized": 11,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2146",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2146",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2146",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2146"
+      }
+    },
+    {
+      "id": "1199",
+      "name": "Lucky Fish #1199",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Hand",
+          "value": "Golden Hatchet",
+          "percentile": 0.003266787658802178,
+          "count": 9,
+          "_id": "62f258110205538db1fe48ca"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48cb"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fishing Hook",
+          "percentile": 0.009074410163339383,
+          "count": 25,
+          "_id": "62f258110205538db1fe48cc"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Hermes Orange",
+          "percentile": 0.10671506352087114,
+          "count": 294,
+          "_id": "62f258110205538db1fe48cd"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Normal",
+          "percentile": 0.2519056261343013,
+          "count": 694,
+          "_id": "62f258110205538db1fe48ce"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "5",
+          "percentile": 0.4177858439201452,
+          "count": 1151,
+          "_id": "62f258110205538db1fe48cf"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe48d0"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48d1"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1199.png",
+      "rank": 13,
+      "rarityScore": 597.4805917187895,
+      "rarityScoreNormalized": 39.65041289443142,
+      "rankNormalized": 12,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1199",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1199",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1199",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1199"
+      }
+    },
+    {
+      "id": "355",
+      "name": "Lucky Fish #355",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Diving Mask",
+          "percentile": 0.003266787658802178,
+          "count": 9,
+          "_id": "62f258110205538db1fe48d3"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Golden Hatchet",
+          "percentile": 0.003266787658802178,
+          "count": 9,
+          "_id": "62f258110205538db1fe48d4"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Indian Headdress",
+          "percentile": 0.006533575317604356,
+          "count": 18,
+          "_id": "62f258110205538db1fe48d5"
+        },
+        {
+          "trait_type": "Body",
+          "value": "White",
+          "percentile": 0.023956442831215972,
+          "count": 66,
+          "_id": "62f258110205538db1fe48d6"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sky Blue",
+          "percentile": 0.09727767695099819,
+          "count": 268,
+          "_id": "62f258110205538db1fe48d7"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Unhappy",
+          "percentile": 0.1117967332123412,
+          "count": 308,
+          "_id": "62f258110205538db1fe48d8"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe48d9"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48da"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/355.png",
+      "rank": 11,
+      "rarityScore": 828.9768572847863,
+      "rarityScoreNormalized": 38.72974635387555,
+      "rankNormalized": 13,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/355",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/355",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/355",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/355"
+      }
+    },
+    {
+      "id": "1390",
+      "name": "Lucky Fish #1390",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48dc"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Pirates",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48dd"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fishing Hook",
+          "percentile": 0.009074410163339383,
+          "count": 25,
+          "_id": "62f258110205538db1fe48de"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Pirates",
+          "percentile": 0.024682395644283123,
+          "count": 68,
+          "_id": "62f258110205538db1fe48df"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Knife",
+          "percentile": 0.05045372050816697,
+          "count": 139,
+          "_id": "62f258110205538db1fe48e0"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sea Blue",
+          "percentile": 0.10018148820326679,
+          "count": 276,
+          "_id": "62f258110205538db1fe48e1"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe48e2"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48e3"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1390.png",
+      "rank": 17,
+      "rarityScore": 507.36638020755004,
+      "rarityScoreNormalized": 36.564369254295336,
+      "rankNormalized": 14,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1390",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1390",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1390",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1390"
+      }
+    },
+    {
+      "id": "2111",
+      "name": "Lucky Fish #2111",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Diving Mask",
+          "percentile": 0.003266787658802178,
+          "count": 9,
+          "_id": "62f258110205538db1fe48e5"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48e6"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Fish Phone",
+          "percentile": 0.05190562613430127,
+          "count": 143,
+          "_id": "62f258110205538db1fe48e7"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sky Blue",
+          "percentile": 0.09727767695099819,
+          "count": 268,
+          "_id": "62f258110205538db1fe48e8"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chewing",
+          "percentile": 0.11578947368421053,
+          "count": 319,
+          "_id": "62f258110205538db1fe48e9"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "5",
+          "percentile": 0.4177858439201452,
+          "count": 1151,
+          "_id": "62f258110205538db1fe48ea"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe48eb"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48ec"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2111.png",
+      "rank": 14,
+      "rarityScore": 512.1220514338305,
+      "rarityScoreNormalized": 32.93218845906688,
+      "rankNormalized": 15,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2111",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2111",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2111",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2111"
+      }
+    },
+    {
+      "id": "613",
+      "name": "Lucky Fish #613",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Head",
+          "value": "Halo",
+          "percentile": 0.005081669691470054,
+          "count": 14,
+          "_id": "62f258110205538db1fe48ee"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48ef"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Buddha Beads",
+          "percentile": 0.05045372050816697,
+          "count": 139,
+          "_id": "62f258110205538db1fe48f0"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Closed",
+          "percentile": 0.051542649727767696,
+          "count": 142,
+          "_id": "62f258110205538db1fe48f1"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Mystic Purple",
+          "percentile": 0.09473684210526316,
+          "count": 261,
+          "_id": "62f258110205538db1fe48f2"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smile",
+          "percentile": 0.09945553539019963,
+          "count": 274,
+          "_id": "62f258110205538db1fe48f3"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe48f4"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48f5"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/613.png",
+      "rank": 19,
+      "rarityScore": 421.4083895553359,
+      "rarityScoreNormalized": 28.86297861435829,
+      "rankNormalized": 16,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/613",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/613",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/613",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/613"
+      }
+    },
+    {
+      "id": "2648",
+      "name": "Lucky Fish #2648",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Head",
+          "value": "Top Hat",
+          "percentile": 0.005081669691470054,
+          "count": 14,
+          "_id": "62f258110205538db1fe48f7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe48f8"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Dizzy",
+          "percentile": 0.051542649727767696,
+          "count": 142,
+          "_id": "62f258110205538db1fe48f9"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Fish Phone",
+          "percentile": 0.05190562613430127,
+          "count": 143,
+          "_id": "62f258110205538db1fe48fa"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Gold",
+          "percentile": 0.09945553539019963,
+          "count": 274,
+          "_id": "62f258110205538db1fe48fb"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "O",
+          "percentile": 0.11978221415607986,
+          "count": 330,
+          "_id": "62f258110205538db1fe48fc"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe48fd"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe48fe"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2648.png",
+      "rank": 21,
+      "rarityScore": 418.6469092291074,
+      "rarityScoreNormalized": 28.65308564771481,
+      "rankNormalized": 17,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2648",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2648",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2648",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2648"
+      }
+    },
+    {
+      "id": "2660",
+      "name": "Lucky Fish #2660",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Hand",
+          "value": "Silk",
+          "percentile": 0.004718693284936479,
+          "count": 13,
+          "_id": "62f258110205538db1fe4900"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe4901"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Closed",
+          "percentile": 0.051542649727767696,
+          "count": 142,
+          "_id": "62f258110205538db1fe4902"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cool",
+          "percentile": 0.09473684210526316,
+          "count": 261,
+          "_id": "62f258110205538db1fe4903"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sky Blue",
+          "percentile": 0.09727767695099819,
+          "count": 268,
+          "_id": "62f258110205538db1fe4904"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "5",
+          "percentile": 0.4177858439201452,
+          "count": 1151,
+          "_id": "62f258110205538db1fe4905"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4906"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4907"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2660.png",
+      "rank": 20,
+      "rarityScore": 419.9888833499582,
+      "rarityScoreNormalized": 28.332775579188596,
+      "rankNormalized": 18,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2660",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2660",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2660",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2660"
+      }
+    },
+    {
+      "id": "1956",
+      "name": "Lucky Fish #1956",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe4909"
+        },
+        {
+          "trait_type": "Face",
+          "value": "One Eye",
+          "percentile": 0.006533575317604356,
+          "count": 18,
+          "_id": "62f258110205538db1fe490a"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Newsboy Cap",
+          "percentile": 0.046823956442831216,
+          "count": 129,
+          "_id": "62f258110205538db1fe490b"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Baseball Bat",
+          "percentile": 0.050816696914700546,
+          "count": 140,
+          "_id": "62f258110205538db1fe490c"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Dark Green",
+          "percentile": 0.09800362976406533,
+          "count": 270,
+          "_id": "62f258110205538db1fe490d"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Normal",
+          "percentile": 0.10381125226860254,
+          "count": 286,
+          "_id": "62f258110205538db1fe490e"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe490f"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4910"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1956.png",
+      "rank": 27,
+      "rarityScore": 378.7181098209069,
+      "rarityScoreNormalized": 26.973869341964733,
+      "rankNormalized": 19,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1956",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1956",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1956",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1956"
+      }
+    },
+    {
+      "id": "454",
+      "name": "Lucky Fish #454",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Hand",
+          "value": "Gold Coins",
+          "percentile": 0.0054446460980036296,
+          "count": 15,
+          "_id": "62f258110205538db1fe4912"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe4913"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sausage",
+          "percentile": 0.06678765880217785,
+          "count": 184,
+          "_id": "62f258110205538db1fe4914"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Hermes Orange",
+          "percentile": 0.10671506352087114,
+          "count": 294,
+          "_id": "62f258110205538db1fe4915"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Normal",
+          "percentile": 0.2519056261343013,
+          "count": 694,
+          "_id": "62f258110205538db1fe4916"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "5",
+          "percentile": 0.4177858439201452,
+          "count": 1151,
+          "_id": "62f258110205538db1fe4917"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4918"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4919"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/454.png",
+      "rank": 24,
+      "rarityScore": 379.8089733613016,
+      "rarityScoreNormalized": 26.817037290566685,
+      "rankNormalized": 20,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/454",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/454",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/454",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/454"
+      }
+    },
+    {
+      "id": "1096",
+      "name": "Lucky Fish #1096",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe491b"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Silver Hatchet",
+          "percentile": 0.011978221415607986,
+          "count": 33,
+          "_id": "62f258110205538db1fe491c"
+        },
+        {
+          "trait_type": "Head",
+          "value": "KFC",
+          "percentile": 0.04500907441016334,
+          "count": 124,
+          "_id": "62f258110205538db1fe491d"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Sad",
+          "percentile": 0.050090744101633396,
+          "count": 138,
+          "_id": "62f258110205538db1fe491e"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Dizzy",
+          "percentile": 0.0838475499092559,
+          "count": 231,
+          "_id": "62f258110205538db1fe491f"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Earth Brown",
+          "percentile": 0.0969147005444646,
+          "count": 267,
+          "_id": "62f258110205538db1fe4920"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe4921"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4922"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1096.png",
+      "rank": 71,
+      "rarityScore": 312.7019403755286,
+      "rarityScoreNormalized": 23.978513289859976,
+      "rankNormalized": 21,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1096",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1096",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1096",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1096"
+      }
+    },
+    {
+      "id": "2397",
+      "name": "Lucky Fish #2397",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "X",
+          "percentile": 0.003629764065335753,
+          "count": 10,
+          "_id": "62f258110205538db1fe4924"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Gold Coins",
+          "percentile": 0.0054446460980036296,
+          "count": 15,
+          "_id": "62f258110205538db1fe4925"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Seaweed",
+          "percentile": 0.042105263157894736,
+          "count": 116,
+          "_id": "62f258110205538db1fe4926"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Earth Brown",
+          "percentile": 0.0969147005444646,
+          "count": 267,
+          "_id": "62f258110205538db1fe4927"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smile",
+          "percentile": 0.09945553539019963,
+          "count": 274,
+          "_id": "62f258110205538db1fe4928"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Brown",
+          "percentile": 0.24682395644283123,
+          "count": 680,
+          "_id": "62f258110205538db1fe4929"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe492a"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe492b"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2397.png",
+      "rank": 15,
+      "rarityScore": 510.073233163885,
+      "rarityScoreNormalized": 23.205969723606074,
+      "rankNormalized": 22,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2397",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2397",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2397",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2397"
+      }
+    },
+    {
+      "id": "2247",
+      "name": "Lucky Fish #2247",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Hand",
+          "value": "Golden Hatchet",
+          "percentile": 0.003266787658802178,
+          "count": 9,
+          "_id": "62f258110205538db1fe492d"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Pirates",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe492e"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Suspect",
+          "percentile": 0.06061705989110708,
+          "count": 167,
+          "_id": "62f258110205538db1fe492f"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Dark Green",
+          "percentile": 0.09800362976406533,
+          "count": 270,
+          "_id": "62f258110205538db1fe4930"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Unhappy",
+          "percentile": 0.1117967332123412,
+          "count": 308,
+          "_id": "62f258110205538db1fe4931"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Red Dot",
+          "percentile": 0.29945553539019965,
+          "count": 825,
+          "_id": "62f258110205538db1fe4932"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe4933"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4934"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2247.png",
+      "rank": 16,
+      "rarityScore": 509.8868427899601,
+      "rarityScoreNormalized": 22.68204968475618,
+      "rankNormalized": 23,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2247",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2247",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2247",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2247"
+      }
+    },
+    {
+      "id": "1463",
+      "name": "Lucky Fish #1463",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe4936"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Olive Branch",
+          "percentile": 0.0294010889292196,
+          "count": 81,
+          "_id": "62f258110205538db1fe4937"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Tree Branch",
+          "percentile": 0.03121597096188748,
+          "count": 86,
+          "_id": "62f258110205538db1fe4938"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Stare",
+          "percentile": 0.05698729582577133,
+          "count": 157,
+          "_id": "62f258110205538db1fe4939"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Dizzy",
+          "percentile": 0.0838475499092559,
+          "count": 231,
+          "_id": "62f258110205538db1fe493a"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Dark Green",
+          "percentile": 0.09800362976406533,
+          "count": 270,
+          "_id": "62f258110205538db1fe493b"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe493c"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe493d"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1463.png",
+      "rank": 130,
+      "rarityScore": 270.51593358361237,
+      "rarityScoreNormalized": 22.317857613996388,
+      "rankNormalized": 24,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1463",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1463",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1463",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1463"
+      }
+    },
+    {
+      "id": "2213",
+      "name": "Lucky Fish #2213",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe493f"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Seaweed",
+          "percentile": 0.042105263157894736,
+          "count": 116,
+          "_id": "62f258110205538db1fe4940"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Paper Airplane",
+          "percentile": 0.04428312159709619,
+          "count": 122,
+          "_id": "62f258110205538db1fe4941"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Dizzy",
+          "percentile": 0.051542649727767696,
+          "count": 142,
+          "_id": "62f258110205538db1fe4942"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Earth Brown",
+          "percentile": 0.0969147005444646,
+          "count": 267,
+          "_id": "62f258110205538db1fe4943"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chewing",
+          "percentile": 0.11578947368421053,
+          "count": 319,
+          "_id": "62f258110205538db1fe4944"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe4945"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4946"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2213.png",
+      "rank": 176,
+      "rarityScore": 249.47891421303,
+      "rarityScoreNormalized": 21.310397260441153,
+      "rankNormalized": 25,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2213",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2213",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2213",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2213"
+      }
+    },
+    {
+      "id": "681",
+      "name": "Lucky Fish #681",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe4948"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Yellow Duck",
+          "percentile": 0.043557168784029036,
+          "count": 120,
+          "_id": "62f258110205538db1fe4949"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Lollipop",
+          "percentile": 0.04900181488203267,
+          "count": 135,
+          "_id": "62f258110205538db1fe494a"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Sleepy",
+          "percentile": 0.05517241379310345,
+          "count": 152,
+          "_id": "62f258110205538db1fe494b"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Mystic Purple",
+          "percentile": 0.09473684210526316,
+          "count": 261,
+          "_id": "62f258110205538db1fe494c"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Unhappy",
+          "percentile": 0.1117967332123412,
+          "count": 308,
+          "_id": "62f258110205538db1fe494d"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe494e"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe494f"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/681.png",
+      "rank": 184,
+      "rarityScore": 245.7819243440238,
+      "rarityScoreNormalized": 21.180765976113637,
+      "rankNormalized": 26,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/681",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/681",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/681",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/681"
+      }
+    },
+    {
+      "id": "382",
+      "name": "Lucky Fish #382",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe4951"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Soccer",
+          "percentile": 0.043557168784029036,
+          "count": 120,
+          "_id": "62f258110205538db1fe4952"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Suspect",
+          "percentile": 0.06061705989110708,
+          "count": 167,
+          "_id": "62f258110205538db1fe4953"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cool",
+          "percentile": 0.09473684210526316,
+          "count": 261,
+          "_id": "62f258110205538db1fe4954"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Hermes Orange",
+          "percentile": 0.10671506352087114,
+          "count": 294,
+          "_id": "62f258110205538db1fe4955"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "5",
+          "percentile": 0.4177858439201452,
+          "count": 1151,
+          "_id": "62f258110205538db1fe4956"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4957"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4958"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/382.png",
+      "rank": 218,
+      "rarityScore": 227.21063485058548,
+      "rarityScoreNormalized": 20.565261790660873,
+      "rankNormalized": 27,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/382",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/382",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/382",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/382"
+      }
+    },
+    {
+      "id": "1859",
+      "name": "Lucky Fish #1859",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe495a"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Fisherman Hat",
+          "percentile": 0.047186932849364795,
+          "count": 130,
+          "_id": "62f258110205538db1fe495b"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Telephone",
+          "percentile": 0.047186932849364795,
+          "count": 130,
+          "_id": "62f258110205538db1fe495c"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Light Yellow",
+          "percentile": 0.10417422867513612,
+          "count": 287,
+          "_id": "62f258110205538db1fe495d"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "O",
+          "percentile": 0.11978221415607986,
+          "count": 330,
+          "_id": "62f258110205538db1fe495e"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Normal",
+          "percentile": 0.2519056261343013,
+          "count": 694,
+          "_id": "62f258110205538db1fe495f"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe4960"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4961"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/1859.png",
+      "rank": 215,
+      "rarityScore": 229.09296685591679,
+      "rarityScoreNormalized": 20.38330680425083,
+      "rankNormalized": 28,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1859",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1859",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1859",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/1859"
+      }
+    },
+    {
+      "id": "2463",
+      "name": "Lucky Fish #2463",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Head",
+          "value": "Halo",
+          "percentile": 0.005081669691470054,
+          "count": 14,
+          "_id": "62f258110205538db1fe4963"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Gold Coins",
+          "percentile": 0.0054446460980036296,
+          "count": 15,
+          "_id": "62f258110205538db1fe4964"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Flash",
+          "percentile": 0.05989110707803993,
+          "count": 165,
+          "_id": "62f258110205538db1fe4965"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Hermes Orange",
+          "percentile": 0.10671506352087114,
+          "count": 294,
+          "_id": "62f258110205538db1fe4966"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "O",
+          "percentile": 0.11978221415607986,
+          "count": 330,
+          "_id": "62f258110205538db1fe4967"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Normal",
+          "percentile": 0.2519056261343013,
+          "count": 694,
+          "_id": "62f258110205538db1fe4968"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "6",
+          "percentile": 0.5785843920145191,
+          "count": 1594,
+          "_id": "62f258110205538db1fe4969"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe496a"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/2463.png",
+      "rank": 18,
+      "rarityScore": 421.57032375467145,
+      "rarityScoreNormalized": 19.959814006409395,
+      "rankNormalized": 29,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2463",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2463",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2463",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/2463"
+      }
+    },
+    {
+      "id": "967",
+      "name": "Lucky Fish #967",
+      "contractAddress": "0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Gold",
+          "percentile": 0.006170598911070781,
+          "count": 17,
+          "_id": "62f258110205538db1fe496c"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Smile",
+          "percentile": 0.0573502722323049,
+          "count": 158,
+          "_id": "62f258110205538db1fe496d"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sea Blue",
+          "percentile": 0.10018148820326679,
+          "count": 276,
+          "_id": "62f258110205538db1fe496e"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Normal",
+          "percentile": 0.10381125226860254,
+          "count": 286,
+          "_id": "62f258110205538db1fe496f"
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Normal",
+          "percentile": 0.22758620689655173,
+          "count": 627,
+          "_id": "62f258110205538db1fe4970"
+        },
+        {
+          "trait_type": "Trait Count",
+          "value": "5",
+          "percentile": 0.4177858439201452,
+          "count": 1151,
+          "_id": "62f258110205538db1fe4971"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None",
+          "percentile": 0.42141560798548094,
+          "count": 1161,
+          "_id": "62f258110205538db1fe4972"
+        },
+        {
+          "trait_type": "Legendary",
+          "value": "None",
+          "percentile": 0.9963702359346642,
+          "count": 2745,
+          "_id": "62f258110205538db1fe4973"
+        }
+      ],
+      "image": "ipfs://bafybeianykbzi6rnvxpwxykswq7ywu4pq42bcz4t3tixqc57paxoqzucdy/967.png",
+      "rank": 256,
+      "rarityScore": 209.27439111988997,
+      "rarityScoreNormalized": 19.84220977407612,
+      "rankNormalized": 30,
+      "links": {
+        "opensea": "https://opensea.io/assets/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/967",
+        "looksrare": "https://looksrare.org/collections/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/967",
+        "x2y2": "https://x2y2.io/eth/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/967",
+        "etherscan": "https://etherscan.io/nft/0x38d8b04ab6b9392c8e14f4745eb25dc3f4a49bb0/967"
+      }
+    }
+  ],
+  "pagination": {
+    "total": 2755,
+    "count": 30,
+    "page": 1,
+    "perPage": 30
+  }
+}

@@ -1,0 +1,65 @@
+:root {
+  --gradient-primary: linear-gradient(to top right, #f72db1 0%, #7222f0 100%);
+  --gradient-trait-1: linear-gradient(to top right, #00b09b 0%, #96c93d 100%);
+  --gradient-trait-2: linear-gradient(to top right, #ee0979 0%, #ff6a00 100%);
+  --gradient-trait-3: linear-gradient(to top right, #fc4a1a 0%, #f7b733 100%);
+  --gradient-trait-4: linear-gradient(to top right, #c33764 0%, #1d2671 100%);
+  --gradient-trait-5: linear-gradient(to top right, #36d1dc 0%, #5b86e5 100%);
+  --gradient-trait-6: linear-gradient(to top right, #141e30 0%, #243b55 100%);
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+code {
+  word-break: break-all;
+}
+
+hr {
+  margin-bottom: 1.5rem;
+}
+
+ul,
+ol {
+  margin: 1rem 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+img.thumbnail-image {
+  border-radius: 0.2em;
+}
+
+.rank {
+  padding: 0.2em;
+  text-align: center;
+  color: white;
+  border-radius: 0.5em;
+  background: var(--gradient-primary);
+  width: 100%;
+  height: 100%;
+}
+span.trait {
+  margin-right: 2px;
+  border-radius: 0.2em;
+  /* background-color: black; */
+  color: white;
+  font-size: 0.6em;
+  padding: 0.2em 0.5em;
+}
